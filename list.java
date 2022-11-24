@@ -2,3 +2,5 @@
 Zita
 Fritz
 Bemsi
+Thalia
+Andin
